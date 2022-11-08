@@ -1,0 +1,22 @@
+# Challenge 20
+- With only one INSERT, add 2 lines in `order_details`
+- line 1:
+  - `order_id`: 69
+  - `product_id`: 80
+  - `quantity`: 15.0000
+  - `unit_price`: 15.0000
+  - `discount`: 0
+  - `status_id`: 2
+  - `date_allocated`: NULL
+  - `purchase_order_id`: NULL
+  - `inventory_id`: 129
+- line 2:
+  - `order_id`: 70
+  - `product_id`: 90
+  - `quantity`: 20.0000
+  - `unit_price`: 10.0000
+  - `discount`: 0
+  - `status_id`: 2
+  - `date_allocated`: NULL
+  - `purchase_order_id`: NULL
+  - `inventory_id`: 130
