@@ -1,2 +1,3 @@
 # Challenge 05
-Show all data from `products` table, but from line 4 to 13
+- Show all data from `products` table
+- limit from line 4 to 13

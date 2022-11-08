@@ -1,2 +1,2 @@
 # Challenge 02
-Show everything from `products` table
+- Show everything from `products` table
