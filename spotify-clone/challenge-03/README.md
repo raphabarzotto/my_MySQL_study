@@ -5,4 +5,4 @@
   - third column: total minutes &rarr; alias `total_minutes`
 
 ## Result
-![challenge 2 results](/spotify-clone/challenge-03/challenge-03-result.jpg)
+![challenge 3 results](/spotify-clone/challenge-03/challenge-03-result.jpg)
