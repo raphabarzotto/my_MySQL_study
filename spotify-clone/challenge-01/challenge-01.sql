@@ -26,9 +26,9 @@ CREATE TABLE SpotifyClone.plans_table(
 
 INSERT INTO SpotifyClone.plans_table (plan, plan_value)
 VALUES
-  ('gratuito', 0),
-  ('familiar', 7.99),
-  ('universitário', 5.99),
+  ('free', 0),
+  ('family', 7.99),
+  ('university', 5.99),
   ('pessoal', 6.99);
 
 -- users table
