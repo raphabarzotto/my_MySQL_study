@@ -1,6 +1,6 @@
 SELECT
     songs.song AS 'song',
-    COUNT(history.id_song) AS 'reproducoes'
+    COUNT(history.id_song) AS 'times_played'
 FROM
     SpotifyClone.songs_table AS songs
         INNER JOIN
